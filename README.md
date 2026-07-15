@@ -79,5 +79,5 @@ See `FINDINGS.md` for the full write-up of what I found in the data, and `COMPAR
 - `FINDINGS.md` — narrative write-up of what I found in the data
 - `COMPARISON.md` — comparison between the two approaches
 - `requirements.txt` — dependencies needed to run `pandas_stats.py`
-- `Outputs/pure_python_output.txt` — saved terminal output from running `pure_python_stats.py`
-- `Outputs/pandas_output.txt` — saved terminal output from running `pandas_stats.py`
+- `OUTPUT/pure_python_output.txt` — saved terminal output from running `pure_python_stats.py`
+- `OUTPUT/pandas_output.txt` — saved terminal output from running `pandas_stats.py`
